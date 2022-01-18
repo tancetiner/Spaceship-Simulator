@@ -4,7 +4,7 @@ A 3D game project that player controls a spaceship around space and gets points 
 ### Table of contents
 
 * [Introduction](#introduction)
-* [Functionality and Techniques](#techniques)
+* [Functionality and Techniques](#functionality-and-techniques)
 * [Collaboration](#collaboration) 
 * [Commits](#commits)
 * [Gameplay](#gameplay)
