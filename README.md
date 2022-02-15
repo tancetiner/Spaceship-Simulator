@@ -9,6 +9,7 @@ A 3D game project that player controls a spaceship around space and gets points 
 * [Commits](#commits)
 * [Gameplay](#gameplay)
 * [Controls](#controls)
+* [Screenshots](#screenshots)
 
 
 ### Introduction
@@ -47,5 +48,30 @@ S     --> Break\
 A     --> Rotate Left\
 D     --> Rotate Right\
 Space --> Fire\
+
+### Screenshots
+**Start the game (initial health and points status):**
+![start](/screenshots/start.png)
+
+
+
+
+**Approaching the target for gain points:**
+![target](/screenshots/target.png)
+
+
+
+
+**You won the game! The game shows the alert and restarts it instantly:**
+![won](screenshots/won.png)
+
+
+
+
+**You lost the game! The game shows the alert and restarts it instantly:**
+![gameOver](screenshots/gameOver.png)
+
+
+
 
 
